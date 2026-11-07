@@ -1,8 +1,8 @@
 {
-  "versao": "1.6.2",
+  "versao": "1.6.3",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "ae0d9483734ade32fd2688e096002176c437de349889bdad92488c815df61293",
-  "tamanho": 20269739,
-  "novidades": "Corrige o fundo do mapa",
+  "sha256": "2eefe1afe3fb0c7365ec545f550c6e912e29300ea8ec20daacc19fcd40b3e31b",
+  "tamanho": 20274836,
+  "novidades": "Corrige o alerta de última medição, que ignorava medições lançadas como aditivo",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
