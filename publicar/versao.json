@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.3",
+  "versao": "1.7.4",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "4a093102fc0a21884dcef708901bcb3eeadfa7b2f4a41a715ffeeb1e560bcaad",
-  "tamanho": 20295951,
-  "novidades": "PDF da obra com o mesmo painel simples de andamento. O previsto usa o Término previsto ou, se vazio, a vigência do contrato.",
+  "sha256": "9b124028b5d5c1e71e4ecaaf0a36aad3ed8ac14e0a84369b750a513dbee7200c",
+  "tamanho": 20294988,
+  "novidades": "Andamento da obra: obras com aditivo de valor também comparam com o prazo do contrato.",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
