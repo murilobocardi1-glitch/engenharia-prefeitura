@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.4",
+  "versao": "1.7.5",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "9b124028b5d5c1e71e4ecaaf0a36aad3ed8ac14e0a84369b750a513dbee7200c",
-  "tamanho": 20294988,
-  "novidades": "Andamento da obra: obras com aditivo de valor também comparam com o prazo do contrato.",
+  "sha256": "d327acc7f7e5d933642505ba250e81ec190e9d78ba936ccac425d67fe6870fce",
+  "tamanho": 20285532,
+  "novidades": "limpeza interna e testes do painel de andamento, sem mudança visível",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
