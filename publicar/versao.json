@@ -1,8 +1,8 @@
 {
-  "versao": "1.5.1",
+  "versao": "1.6.0",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "91af6eeb127fffc9e09ac4c58533058a8935662f3c1a724f79876cb4dc458445",
-  "tamanho": 20222878,
-  "novidades": "Clicando em 'A pagar' no Painel geral, aparece o resumo do que está para pagar, por obra, com as datas.",
+  "sha256": "840d191e229f79bbefb176cefd0070250f5650d3afe4743c18f5aaf13c1ee8dd",
+  "tamanho": 20274299,
+  "novidades": "Mapa com as obras, quadro de alertas, previsto x executado e busca nas telas de Medições e Atividades",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
