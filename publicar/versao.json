@@ -1,8 +1,8 @@
 {
-  "versao": "1.6.6",
+  "versao": "1.7.0",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "84696a289ee567eca0a184c775b49f0bb902b6a210db114497371e35b4c4f3c8",
-  "tamanho": 20270890,
-  "novidades": "Mapa: Ver detalhes agora abre na frente do mapa",
+  "sha256": "fdfb4e313a8b2762e56e2e44d031f3bd466737f8bf76ad9b62e7bcce5d0874bc",
+  "tamanho": 20285783,
+  "novidades": "Grafico de andamento, vigencia do contrato, PDF da obra melhorado, Exportar Excel das Medicoes e centavos em Projetos",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
