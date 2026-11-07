@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.2",
+  "versao": "1.7.3",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "51ee4b4ea2fdd2a1d4b08f448b7a88a98f9aee5c227d0b40bc7837a201da4772",
-  "tamanho": 20292138,
-  "novidades": "Andamento da obra ficou mais simples: percentual medido, onde está o valor do contrato e prazo. PDF da obra sem folha quase vazia.",
+  "sha256": "4a093102fc0a21884dcef708901bcb3eeadfa7b2f4a41a715ffeeb1e560bcaad",
+  "tamanho": 20295951,
+  "novidades": "PDF da obra com o mesmo painel simples de andamento. O previsto usa o Término previsto ou, se vazio, a vigência do contrato.",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
