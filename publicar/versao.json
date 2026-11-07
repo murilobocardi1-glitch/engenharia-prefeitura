@@ -1,8 +1,8 @@
 {
-  "versao": "1.6.1",
+  "versao": "1.6.2",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "37cd310f147a36f8b53419f8bedd074cb4bbad8471d4fc0ca05b29c073b8cdf9",
-  "tamanho": 20276839,
-  "novidades": "Alertas de prazo passam a usar só as datas do contrato (Vigência até e Término previsto)",
+  "sha256": "ae0d9483734ade32fd2688e096002176c437de349889bdad92488c815df61293",
+  "tamanho": 20269739,
+  "novidades": "Corrige o fundo do mapa",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
