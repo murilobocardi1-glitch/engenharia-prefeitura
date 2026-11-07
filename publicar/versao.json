@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.1",
+  "versao": "1.7.2",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "14a8a03683c35fe091436ad7307e00430460df89b3dc4009692d43f0539f443e",
-  "tamanho": 20290920,
-  "novidades": "PDF da obra: nao deixa mais a segunda folha com so uma linha",
+  "sha256": "51ee4b4ea2fdd2a1d4b08f448b7a88a98f9aee5c227d0b40bc7837a201da4772",
+  "tamanho": 20292138,
+  "novidades": "Andamento da obra ficou mais simples: percentual medido, onde está o valor do contrato e prazo. PDF da obra sem folha quase vazia.",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
