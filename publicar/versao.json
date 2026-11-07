@@ -1,8 +1,8 @@
 {
-  "versao": "1.6.4",
+  "versao": "1.6.5",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "9b462afe238a7707adbc29eed0b2d7cfb547152a11372712604abea2bf5b6cba",
-  "tamanho": 20268855,
-  "novidades": "Valores da tela Medições das Obras com centavos",
+  "sha256": "bb82d077d09e6590297a9ee7669cb015f21c753ab4e5ce5c3f52f9dbc49db06a",
+  "tamanho": 20272321,
+  "novidades": "Mapa: não mostra mais tela cinza ao dar muito zoom",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
