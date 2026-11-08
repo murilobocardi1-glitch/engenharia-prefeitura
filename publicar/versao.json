@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.5",
+  "versao": "1.7.6",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "d327acc7f7e5d933642505ba250e81ec190e9d78ba936ccac425d67fe6870fce",
-  "tamanho": 20285532,
-  "novidades": "limpeza interna e testes do painel de andamento, sem mudança visível",
+  "sha256": "d940c75f541931298e3f338721fb9dcb5ef3c7a2fe185e7afc7b78f7fa540e21",
+  "tamanho": 20291293,
+  "novidades": "aviso de nova versão mais rápido: o app confere a cada minuto",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
