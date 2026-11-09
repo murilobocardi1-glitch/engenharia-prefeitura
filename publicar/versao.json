@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.6",
+  "versao": "1.7.7",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "d940c75f541931298e3f338721fb9dcb5ef3c7a2fe185e7afc7b78f7fa540e21",
-  "tamanho": 20291293,
-  "novidades": "aviso de nova versão mais rápido: o app confere a cada minuto",
+  "sha256": "352bbd2244939891db89134fb2710d9bb0d0b8b72734a3d77986c12b07ea93f9",
+  "tamanho": 20291290,
+  "novidades": "nome do setor atualizado para Setor de Convênios e Engenharia e secretário no menu lateral e nos PDFs",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
