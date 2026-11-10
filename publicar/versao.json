@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.7",
+  "versao": "1.7.8",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "352bbd2244939891db89134fb2710d9bb0d0b8b72734a3d77986c12b07ea93f9",
-  "tamanho": 20291290,
-  "novidades": "nome do setor atualizado para Setor de Convênios e Engenharia e secretário no menu lateral e nos PDFs",
+  "sha256": "fcb39372b312783a3040d4c7e688a607bc760691c93eaa9686dc6a3219845494",
+  "tamanho": 20293419,
+  "novidades": "mapa com o tipo Obra finalizada (laranja) e etiqueta Obra finalizada nos Projetos Entregues",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
