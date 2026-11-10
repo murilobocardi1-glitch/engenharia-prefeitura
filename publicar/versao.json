@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.8",
+  "versao": "1.7.9",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "fcb39372b312783a3040d4c7e688a607bc760691c93eaa9686dc6a3219845494",
-  "tamanho": 20293419,
-  "novidades": "mapa com o tipo Obra finalizada (laranja) e etiqueta Obra finalizada nos Projetos Entregues",
+  "sha256": "3a98ad30728dfcec8ce69d9f1401eb82fbd87909bb0fc2405c9ad526f7466f4a",
+  "tamanho": 20296007,
+  "novidades": "mapa reorganizado: obras em andamento, obras finalizadas, projetos finalizados e obras de convênio, com aviso de obra paralisada",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
