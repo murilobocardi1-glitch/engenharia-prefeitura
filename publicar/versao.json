@@ -1,0 +1,8 @@
+{
+  "versao": "1.8.6.16",
+  "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/teste/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
+  "sha256": "6f7e2a315cf8d8e6e84e76d0346caf7590593b9d64e86cfbd53348d898d3c392",
+  "tamanho": 20879171,
+  "novidades": "TESTE: em Projetos Entregues o BDI saiu da tabela e aparece só ao clicar no projeto",
+  "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/teste/publicar/versao.json"
+}
