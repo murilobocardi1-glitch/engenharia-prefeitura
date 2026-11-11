@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.0",
+  "versao": "1.8.1.9",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "3c1de9f290b9b14303e6d919e534bbc4b931118ca3cb16cf5e23fbd509c7acae",
-  "tamanho": 20308921,
-  "novidades": "botão Enviar por WhatsApp em todos os PDFs, nova aba Projetos de Terceiros, obras finalizadas no mapa e busca geral na barra de cima",
+  "sha256": "bde4b3ea94be8f2520b5b5bb6f27eb8ee0c23ce83281dac9f650a7bf9451033d",
+  "tamanho": 20879590,
+  "novidades": "o botão Enviar por WhatsApp agora abre o Compartilhar do Windows com o PDF já anexado: é só escolher a pessoa",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
