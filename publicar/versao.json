@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.1.9",
+  "versao": "1.8.2.11",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "bde4b3ea94be8f2520b5b5bb6f27eb8ee0c23ce83281dac9f650a7bf9451033d",
-  "tamanho": 20879590,
-  "novidades": "o botão Enviar por WhatsApp agora abre o Compartilhar do Windows com o PDF já anexado: é só escolher a pessoa",
+  "sha256": "1afd4f3efd8a9ce439705acba1254e66ff95706ad12126e48d1744d778a5c094",
+  "tamanho": 20874320,
+  "novidades": "onde aparecia \"Setor\", agora aparece \"Secretaria de Convênios e Engenharia\" (tela e PDFs)",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
