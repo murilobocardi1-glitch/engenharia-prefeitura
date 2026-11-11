@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.9",
+  "versao": "1.8.0",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "3a98ad30728dfcec8ce69d9f1401eb82fbd87909bb0fc2405c9ad526f7466f4a",
-  "tamanho": 20296007,
-  "novidades": "mapa reorganizado: obras em andamento, obras finalizadas, projetos finalizados e obras de convênio, com aviso de obra paralisada",
+  "sha256": "3c1de9f290b9b14303e6d919e534bbc4b931118ca3cb16cf5e23fbd509c7acae",
+  "tamanho": 20308921,
+  "novidades": "botão Enviar por WhatsApp em todos os PDFs, nova aba Projetos de Terceiros, obras finalizadas no mapa e busca geral na barra de cima",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
