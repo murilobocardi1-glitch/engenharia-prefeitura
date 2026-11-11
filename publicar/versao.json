@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.3.12",
+  "versao": "1.8.4.14",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "f8372ae9ea7b8ebe021be683806f0dce4fb3537d541019b10cedcb9823e087ca",
-  "tamanho": 20872677,
-  "novidades": "a busca de cima ficou mais limpa: uma lista só, no máximo 5 resultados, sem o mapa repetindo as obras",
+  "sha256": "54d2f02e181a9a516f883881d52e3ce4c5645d3013af79a735d3b103750e6ee5",
+  "tamanho": 20879210,
+  "novidades": "tirei as caixas de busca de dentro das abas: agora só a busca de cima",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
