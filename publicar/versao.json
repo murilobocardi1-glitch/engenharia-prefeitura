@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.2.11",
+  "versao": "1.8.3.12",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "1afd4f3efd8a9ce439705acba1254e66ff95706ad12126e48d1744d778a5c094",
-  "tamanho": 20874320,
-  "novidades": "onde aparecia \"Setor\", agora aparece \"Secretaria de Convênios e Engenharia\" (tela e PDFs)",
+  "sha256": "f8372ae9ea7b8ebe021be683806f0dce4fb3537d541019b10cedcb9823e087ca",
+  "tamanho": 20872677,
+  "novidades": "a busca de cima ficou mais limpa: uma lista só, no máximo 5 resultados, sem o mapa repetindo as obras",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
