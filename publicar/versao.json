@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.5.15",
+  "versao": "1.8.6.16",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "ebe354a770218f4d62eac14ef03cb45016a508ffc0f152bc2a232a6d65c5b94d",
-  "tamanho": 20874564,
-  "novidades": "tirei os botões de filtro de cima da aba Atividades: agora aparece tudo direto",
+  "sha256": "6f7e2a315cf8d8e6e84e76d0346caf7590593b9d64e86cfbd53348d898d3c392",
+  "tamanho": 20879171,
+  "novidades": "em Projetos Entregues o BDI saiu da tabela e aparece só ao clicar no projeto",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
