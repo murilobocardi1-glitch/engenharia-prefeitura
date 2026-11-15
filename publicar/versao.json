@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.8.18",
+  "versao": "1.8.9.19",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "b770f366011166b35fc83f195e94e0c75629c0463a789393b8280fce473293b6",
-  "tamanho": 20875484,
-  "novidades": "melhorias por dentro do programa: organização da tela e mais testes automáticos",
+  "sha256": "5610957cb7bddf387ce3c66aa507638599195216e47a68cede5059e1c0b23ff1",
+  "tamanho": 20876272,
+  "novidades": "a planilha agora fica no Google Planilhas e é atualizada direto, sem precisar subir arquivo",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
