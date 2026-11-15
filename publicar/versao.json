@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.7.17",
+  "versao": "1.8.8.18",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "6f2e092ed484002d4fa90db3fc6c2cf180f8f21325e85aa8bf095c4f1a6af28d",
-  "tamanho": 20880047,
-  "novidades": "a busca junta a mesma obra numa linha só (Atividades e Medições)",
+  "sha256": "b770f366011166b35fc83f195e94e0c75629c0463a789393b8280fce473293b6",
+  "tamanho": 20875484,
+  "novidades": "melhorias por dentro do programa: organização da tela e mais testes automáticos",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
