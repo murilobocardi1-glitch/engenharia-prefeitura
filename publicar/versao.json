@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.10.20",
+  "versao": "1.8.11.21",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "e7f191b2321a46b34d4e64159c23710df0ba70902a3da51342c034647c41d95b",
-  "tamanho": 20880407,
-  "novidades": "a busca volta a mostrar um atalho para cada lugar (Atividades, Medições, Projetos, Mapa)",
+  "sha256": "a7cc31acfe4438e4902ef4d324ebfff3a6f392fc87b67b74d841dd66c2a58818",
+  "tamanho": 20878551,
+  "novidades": "Projetos de Terceiros: obra finalizada aparece com a etiqueta verde ao lado do nome, igual aos Projetos Entregues",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
