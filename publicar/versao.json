@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.11.21",
+  "versao": "1.8.12.22",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "a7cc31acfe4438e4902ef4d324ebfff3a6f392fc87b67b74d841dd66c2a58818",
-  "tamanho": 20878551,
-  "novidades": "Projetos de Terceiros: obra finalizada aparece com a etiqueta verde ao lado do nome, igual aos Projetos Entregues",
+  "sha256": "314e0193e17913fbc2a044b6f4791f969dda631628a163ad6aeb3409d0c60748",
+  "tamanho": 20886850,
+  "novidades": "Nova janela \"O que mudou\" ao abrir o app: mostra medições, projetos, protocolos e demandas novas desde a última vez que este computador abriu",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
