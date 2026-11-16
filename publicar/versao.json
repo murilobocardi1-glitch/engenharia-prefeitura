@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.18.28",
+  "versao": "1.8.19.29",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "e1bffde205f38f5c5b536e50987a7b21c9d2edea8abd513b012dda1acb85a445",
-  "tamanho": 20896440,
-  "novidades": "Novo: letra maior ou menor (A- e A+), tema escuro, coluna Vigência na lista de medições e obras canceladas esmaecidas",
+  "sha256": "74526945556818ede25f721c00c73ac53a20b3153ca1266e81667b8a9d3397d6",
+  "tamanho": 20891183,
+  "novidades": "Mapa com pinos de verdade: azul obra em andamento, roxo finalizada, verde projeto, laranja convênio, vermelho paralisada",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
