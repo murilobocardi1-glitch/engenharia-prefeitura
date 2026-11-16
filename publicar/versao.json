@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.14.24",
+  "versao": "1.8.15.25",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "86ac4959c8f4e685cc1514a1b902221b7d2425ecedceb6af488307f8aeaed274",
-  "tamanho": 20893197,
-  "novidades": "Medições: controle do limite de aditivos (25% do valor original) no detalhe da obra e no quadro Atenção do Início",
+  "sha256": "e016c771cc785606523e01c82cb762d5c6c818596cdc766fc93f456d5d555bd9",
+  "tamanho": 20892613,
+  "novidades": "Medições das Obras: tirados os botões de filtro (Com valor a pagar, Atrasadas), a lista mostra todas as obras",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
