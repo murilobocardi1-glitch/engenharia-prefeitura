@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.13.23",
+  "versao": "1.8.14.24",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "f7349cd15f4b01c10d02a0fa7036ebaf6d23e1785731ddc2800de1736582e40d",
-  "tamanho": 20885059,
-  "novidades": "A janela de avisos ao abrir agora se chama \"Atualizações desde a sua última visita\"",
+  "sha256": "86ac4959c8f4e685cc1514a1b902221b7d2425ecedceb6af488307f8aeaed274",
+  "tamanho": 20893197,
+  "novidades": "Medições: controle do limite de aditivos (25% do valor original) no detalhe da obra e no quadro Atenção do Início",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
