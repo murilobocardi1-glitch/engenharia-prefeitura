@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.16.26",
+  "versao": "1.8.17.27",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "5bdfa8aaf6827d4c5b775b89fd0a37c482d117b2ece02dec5868d4c89a24d549",
-  "tamanho": 20888721,
-  "novidades": "Aviso de \"Contrato cancelado\" nas obras (lista e detalhe das Medições, Atividades e quadro Atenção)",
+  "sha256": "fe326a22031eccf35af3ac3ba21abc50c2ce41a11f32beff4c4c46fad6f9d4fc",
+  "tamanho": 20886081,
+  "novidades": "Projetos entregues: tirados os botões Sem ano e Todos, linha solta da planilha ignorada, texto \"pela Secretaria\"",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
