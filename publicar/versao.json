@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.12.22",
+  "versao": "1.8.13.23",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "314e0193e17913fbc2a044b6f4791f969dda631628a163ad6aeb3409d0c60748",
-  "tamanho": 20886850,
-  "novidades": "Nova janela \"O que mudou\" ao abrir o app: mostra medições, projetos, protocolos e demandas novas desde a última vez que este computador abriu",
+  "sha256": "f7349cd15f4b01c10d02a0fa7036ebaf6d23e1785731ddc2800de1736582e40d",
+  "tamanho": 20885059,
+  "novidades": "A janela de avisos ao abrir agora se chama \"Atualizações desde a sua última visita\"",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
