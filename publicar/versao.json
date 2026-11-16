@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.17.27",
+  "versao": "1.8.18.28",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "fe326a22031eccf35af3ac3ba21abc50c2ce41a11f32beff4c4c46fad6f9d4fc",
-  "tamanho": 20886081,
-  "novidades": "Projetos entregues: tirados os botões Sem ano e Todos, linha solta da planilha ignorada, texto \"pela Secretaria\"",
+  "sha256": "e1bffde205f38f5c5b536e50987a7b21c9d2edea8abd513b012dda1acb85a445",
+  "tamanho": 20896440,
+  "novidades": "Novo: letra maior ou menor (A- e A+), tema escuro, coluna Vigência na lista de medições e obras canceladas esmaecidas",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
