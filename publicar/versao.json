@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.22.36",
+  "versao": "1.8.23.38",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "e20c8c91d02783e0c614ea7232359e948c6b59eb1899c88e4edaffe87d58fbda",
-  "tamanho": 20954317,
-  "novidades": "Cronograma físico-financeiro na tela da obra (Quadra Vitor Teixeira)",
+  "sha256": "e0de53b3260e10872f469d6f1980d3669a9436ae2fbe8e76d3c239da63d67e7f",
+  "tamanho": 20959201,
+  "novidades": "Arquivo: obras entregues, projetos finalizados e contratos cancelados saem da lista principal",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
