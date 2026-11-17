@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.23.38",
+  "versao": "1.8.24.39",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "e0de53b3260e10872f469d6f1980d3669a9436ae2fbe8e76d3c239da63d67e7f",
-  "tamanho": 20959201,
-  "novidades": "Arquivo: obras entregues, projetos finalizados e contratos cancelados saem da lista principal",
+  "sha256": "2b438e8a2dc8c469ff9e222552494f0f9a6d5573a88457cbf5b2b4444d295e22",
+  "tamanho": 20956484,
+  "novidades": "Menos botões no topo: sai o Exportar Excel e o Atualizar dados vira só o símbolo",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
