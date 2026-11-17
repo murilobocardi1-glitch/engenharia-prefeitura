@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.20.33",
+  "versao": "1.8.20.34",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "461c40ce4dbf5fe9c8e2ad68785234c1f111f837f67598123025790c955d1df8",
-  "tamanho": 20955243,
+  "sha256": "faf336bf63ac48ad3bc01cff9d400a1b3c2907a996162a928f43273938f76c33",
+  "tamanho": 20960177,
   "novidades": "Boletim TCE na janela da obra: Excel com uma aba por medição e PDF, conferido com os pagamentos",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
