@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.26.41",
+  "versao": "1.8.27.42",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "3597e2431ffd101881db5f1e310bfdf1934aefd7c05699c3aae297be02a4595b",
-  "tamanho": 20956445,
-  "novidades": "Convênios só com o filtro Todas",
+  "sha256": "95d36527f02cc4109f73e5a8a2009c658dd487f08e8152c720eb6c78461354d6",
+  "tamanho": 20958796,
+  "novidades": "Início mostra as obras em andamento (sem paralisadas e canceladas)",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
