@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.25.40",
+  "versao": "1.8.26.41",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "381c92dd57aed8996e20bd73d432a2c271f92044da01268c0f63bc71ec1e3f72",
-  "tamanho": 20958826,
-  "novidades": "Atividades sem o cartão Arquivo: contratos cancelados e obras entregues não aparecem mais",
+  "sha256": "3597e2431ffd101881db5f1e310bfdf1934aefd7c05699c3aae297be02a4595b",
+  "tamanho": 20956445,
+  "novidades": "Convênios só com o filtro Todas",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
