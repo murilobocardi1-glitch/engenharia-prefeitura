@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.29.45",
+  "versao": "1.8.30.46",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "ab79f7e0cb07d0bcc27d9f1edbca3d4f7ef9cb8bf08257b6ef8f6dc674fbd54a",
-  "tamanho": 20975709,
-  "novidades": "Obra em abas (Resumo, Lançamentos, Fotos), fotos por mês, foto de capa na lista de obras e alertas agrupados",
+  "sha256": "0b15e1fc1df95a671e86ef3d4089f28456b27f3296a6ff555351253103acb8fd",
+  "tamanho": 20975978,
+  "novidades": "A aba dentro da obra agora se chama Medições",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
