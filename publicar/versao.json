@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.27.42",
+  "versao": "1.8.28.44",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "95d36527f02cc4109f73e5a8a2009c658dd487f08e8152c720eb6c78461354d6",
-  "tamanho": 20958796,
-  "novidades": "Início mostra as obras em andamento (sem paralisadas e canceladas)",
+  "sha256": "a5097e361e263aaae694947c0462b602dac71d37574b4a9a0def320d4e735fba",
+  "tamanho": 20975295,
+  "novidades": "Fotos da obra: as fotos da pasta de cada obra no Drive aparecem dentro do app, por mês",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
