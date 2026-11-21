@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.32.48",
+  "versao": "1.8.33.49",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "8b1329d900dab8bdd0b6bf6e92a4f3ca92e021064a39a87fd3a64849a5c03d02",
-  "tamanho": 20975400,
-  "novidades": "Ao passar para a próxima obra (Anterior/Próxima), abre sempre no Resumo",
+  "sha256": "6e64ba0962494eafc232abb2f47c2e0c45a6f2c9a203af43753a90cae3e8290b",
+  "tamanho": 20979681,
+  "novidades": "Linha do tempo de cada obra no Resumo e fotos abrindo mais rápido (com aviso \"Atualizando fotos…\")",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
