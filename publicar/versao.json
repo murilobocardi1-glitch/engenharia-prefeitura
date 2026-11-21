@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.31.47",
+  "versao": "1.8.32.48",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "3eb7d8c8bf71918739bc7fdc810b0c698116f5259c964bbecb46aad327544b7e",
-  "tamanho": 20974724,
-  "novidades": "Atividades em ordem: em andamento em cima, não iniciadas embaixo, e em ordem alfabética",
+  "sha256": "8b1329d900dab8bdd0b6bf6e92a4f3ca92e021064a39a87fd3a64849a5c03d02",
+  "tamanho": 20975400,
+  "novidades": "Ao passar para a próxima obra (Anterior/Próxima), abre sempre no Resumo",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
