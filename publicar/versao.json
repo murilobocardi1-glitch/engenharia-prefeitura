@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.33.49",
+  "versao": "1.8.34.50",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "6e64ba0962494eafc232abb2f47c2e0c45a6f2c9a203af43753a90cae3e8290b",
-  "tamanho": 20979681,
-  "novidades": "Linha do tempo de cada obra no Resumo e fotos abrindo mais rápido (com aviso \"Atualizando fotos…\")",
+  "sha256": "29956a029e2e33e85878afd756f34607a3f498f594a826c7dec781c0b2bba6d8",
+  "tamanho": 20974661,
+  "novidades": "Linha do tempo retirada do Resumo; fotos de WhatsApp abrindo mais rápido",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
