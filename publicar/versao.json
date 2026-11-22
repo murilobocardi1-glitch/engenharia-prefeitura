@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.35",
+  "versao": "1.8.35.52",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "949b5b5ab6218c07bf46e26ba55eb6f91a77f288108d2f37da7d3e14592c4f4f",
-  "tamanho": 20420802,
-  "novidades": "Conferência da planilha no quadro Atenção; sem término previsto, vale o fim do contrato",
+  "sha256": "82b32674ade6adfcb97fd0de9bc51b6435e2ced133c9dfa3897a2c29d8ffea8b",
+  "tamanho": 20987231,
+  "novidades": "Erros de preenchimento da planilha aparecem em vermelho no topo do Painel geral (inclusive pagamento lançado na linha errada)",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
