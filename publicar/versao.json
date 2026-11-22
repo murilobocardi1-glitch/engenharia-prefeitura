@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.35.52",
+  "versao": "1.8.36.53",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "82b32674ade6adfcb97fd0de9bc51b6435e2ced133c9dfa3897a2c29d8ffea8b",
-  "tamanho": 20987231,
-  "novidades": "Erros de preenchimento da planilha aparecem em vermelho no topo do Painel geral (inclusive pagamento lançado na linha errada)",
+  "sha256": "1d86f2d152729aad2cc3bc46e00d3c0c1b577a7068e8051ffc37702fae60eb11",
+  "tamanho": 20987632,
+  "novidades": "Janela não passa mais da borda em monitor grande (maximizar corrigido); Muro da João Bráulio deixa de aparecer como contrato cancelado",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
