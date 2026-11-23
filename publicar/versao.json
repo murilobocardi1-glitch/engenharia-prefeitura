@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.38.56",
+  "versao": "1.8.39.57",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "0e5dbc487071fc0018aacd6104a33ff8d8f21bd8bd4ff0fce50ff9e3a21e5384",
-  "tamanho": 20997288,
-  "novidades": "Painel geral mais claro: cards levam para a tela certa, datas faltando ficam separadas dos alertas das obras e textos dos alertas mais curtos",
+  "sha256": "2b909c96d183144da583f51ea8889aead00545cb31f775d3202a10db7dd20971",
+  "tamanho": 20993506,
+  "novidades": "Visual novo, mais sóbrio: fundo branco, partes separadas por linha, números em faixa e alertas com barra colorida na lateral",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
