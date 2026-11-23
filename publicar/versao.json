@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.39.57",
+  "versao": "1.8.40.58",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "2b909c96d183144da583f51ea8889aead00545cb31f775d3202a10db7dd20971",
-  "tamanho": 20993506,
-  "novidades": "Visual novo, mais sóbrio: fundo branco, partes separadas por linha, números em faixa e alertas com barra colorida na lateral",
+  "sha256": "875454ebd75962b97d502e51be1b804f53d3fcae4bcae32953f6d2a4e909b400",
+  "tamanho": 20993994,
+  "novidades": "Volta ao visual anterior do app",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
