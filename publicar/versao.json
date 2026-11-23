@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.41.59",
+  "versao": "1.8.42.60",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "0168056ecec40d9f56be67ccd42807f329bfe0c3e9f18b7de8af5e47baf43aa7",
-  "tamanho": 21001788,
-  "novidades": "A cópia da planilha guardada no computador fica protegida: só o app abre",
+  "sha256": "163c447b40bb77f6e955a53f0b92f8b4f8b5d784292433f854b601be328e193c",
+  "tamanho": 21008907,
+  "novidades": "Computador novo pede um código de acesso na primeira abertura; a planilha passa a ser baixada por endereço protegido",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
