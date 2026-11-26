@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.43.61",
+  "versao": "1.8.44.62",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "59cbc877f538f6d896892e71150eefbf08d9a45b4d141450404c00c39e022247",
-  "tamanho": 21009094,
-  "novidades": "Planilha protegida: o app baixa os dados só pelo endereço com código de acesso",
+  "sha256": "2f55a93ef1cc6f9a20c473e79bd06bc8fd708944f1b2f442c0a5906df246f3ab",
+  "tamanho": 21033721,
+  "novidades": "Mapa: só as obras em andamento ficam em azul; paralisadas e com contrato cancelado ficam em vermelho",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
