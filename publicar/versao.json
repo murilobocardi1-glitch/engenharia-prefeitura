@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.44.62",
+  "versao": "1.8.45.63",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "2f55a93ef1cc6f9a20c473e79bd06bc8fd708944f1b2f442c0a5906df246f3ab",
-  "tamanho": 21033721,
-  "novidades": "Mapa: só as obras em andamento ficam em azul; paralisadas e com contrato cancelado ficam em vermelho",
+  "sha256": "411ca87989b515ca6c8bbd28b97bb80193e041affa3f64f18e111d7299bb0b53",
+  "tamanho": 21034301,
+  "novidades": "Medições: aditivo ainda não medido não entra no % executado nem no saldo da obra",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
