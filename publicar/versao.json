@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.47.65",
+  "versao": "1.8.48.66",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "6a7f993284100b10751ea0d255b2c5bcaf202b77e8bea094fc640d7521d01090",
-  "tamanho": 21040032,
-  "novidades": "Medições: ícone PDF em cada medição abre a planilha, o diário de obra e o relatório fotográfico num clique",
+  "sha256": "94b32fb79723a83ac9b2baf0b94789614354941d5566a73d7727ed65daeb8dff",
+  "tamanho": 21038095,
+  "novidades": "Medições: botão Abrir em cada medição mostra a planilha, o diário de obra e o relatório fotográfico num clique",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
