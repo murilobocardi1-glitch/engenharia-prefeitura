@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.46.64",
+  "versao": "1.8.47.65",
   "url_setup": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/SETUP%20ENGENHARIA%20PREFEITURA.exe",
-  "sha256": "fcf202c65478aad525471ee22c02f75961918d5eed3ff19fe084aaa4f358926d",
-  "tamanho": 21037807,
-  "novidades": "Computador novo: fotos das obras e botão Boletim TCE aparecem assim que a planilha é baixada",
+  "sha256": "6a7f993284100b10751ea0d255b2c5bcaf202b77e8bea094fc640d7521d01090",
+  "tamanho": 21040032,
+  "novidades": "Medições: ícone PDF em cada medição abre a planilha, o diário de obra e o relatório fotográfico num clique",
   "url_versao": "https://raw.githubusercontent.com/murilobocardi1-glitch/engenharia-prefeitura/main/publicar/versao.json"
 }
